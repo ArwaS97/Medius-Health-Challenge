@@ -10,8 +10,7 @@ By Arwa Siddiqui
 2. There are 300 documents.
 3. Each document has some text information.
 
-#### Task Description: 
-Grouping documents with the same semantic description into clusters. 
+#### Task Description: Grouping documents with the same semantic description into clusters. 
 1. Process the text data in each document/file using NLP, data processing, text mining.
 3. Develop a model to partition the data into multiple clusters. It is required to develop the end-to-end model in python instead of using any data clustering libraries or pre-trained models.
 
@@ -40,3 +39,6 @@ The **outcome** of the model:
     * Find and plot optimal number of clusters, using Elbow Method  
 5. **Perform LDA to find topics in clusters**
 6. **Plot TSNE plot to visualise clusters**
+
+
+Note: "requirements.txt" has also been added to the GitHub. 
