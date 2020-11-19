@@ -34,7 +34,7 @@ The **outcome** of the model:
     * Create sample data as an example
     * Build K-Means algorithm from scratch 
     * Plot clusters of sample data
-4. **Building K-Means model, with clustering libraries (using original text data from (1))**
+4. **Building K-Means model, with clustering libraries (using original text data from (2))**
     * Using *KMeans* from *sklearn* library to model document data
     * Find and plot optimal number of clusters, using Elbow Method  
 5. **Perform LDA to find topics in clusters**
