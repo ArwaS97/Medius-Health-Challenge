@@ -27,7 +27,7 @@ The **outcome** of the model:
 2. **Process text files/documents to extract information**     
     * Extract files to make dataframe
     * Text mining, use NLTK to tokenize documents, remove stop-words, etc.   
-    * Use Stemmer   
+    * Use Stemmer & Lemmatization   
     * Use Frequency Dist to plot most common words 
     * Perform TF-IDF Vectorizer
 3. **Building K-Means model, without clustering libraries (using sample numeric data)**
