@@ -22,7 +22,7 @@ The **outcome** of the model:
 
 ---------------------------------------------------------------------------------------------
 
-### To answer the challenge, the "Medius Health Challenege.ipynb" has analysis set-up as:
+### To answer the challenge, the "Medius Health Challenge.ipynb" has analysis set-up as:
 1. **Load imports/libraries**
 2. **Process text files/documents to extract information**     
     * Extract files to make dataframe
